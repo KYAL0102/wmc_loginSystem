@@ -1,0 +1,11 @@
+Hey John Doe! ?
+
+Hope you're doing well! It looks like you need to reset your password. No worries, we've got you covered. ??
+
+To reset your password, you need this OTP:
+646250
+
+If you didn't request this, don't worry, your account is safe with us. Just ignore this message.
+
+Best regards,
+Test Company
